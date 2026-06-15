@@ -66,6 +66,11 @@ header .logo {
     align-items: flex-end;
     gap: 1rem;
 }
+header .logo h2 {
+    font-size: 16px;
+    line-height: 1.2;
+    white-space: nowrap;
+}
 header .nav {
     flex: 1;
 }
